@@ -1,6 +1,7 @@
 # Open Sudoku 
  
 [![Build Status](https://travis-ci.org/iunetworks/training1-sudoku.svg)](https://travis-ci.org/iunetworks/training1-sudoku)  
+(https://travis-ci.org/iunetworks/training1-sudoku.svg)
 
 Open source demo project to showcase BDD.
 
